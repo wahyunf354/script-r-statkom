@@ -72,7 +72,7 @@
     )
   # Menambahkan colum frekuensi
   table$frekuensi=f
-  
+
   
   
   
